@@ -64,7 +64,6 @@ Ahora que has creado tu archivo y su estructura básica, ya es hora de comenzar 
    -  `<p>` para los párrafos
    -  `<div>` para agrupar elementos
    -  `<ul>/<ol>` para hacer listas
-
    Utilizar los elementos correctos luego nos ayudará al momento de dar estilos.
 
 ---
